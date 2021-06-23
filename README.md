@@ -1,6 +1,6 @@
 # Video player "Favourite Songs"
 
-### A simple video player with my favourite songs, built with React useState hooks and npm package react-youtube. Right now you can choose between songs, using Youtube player as usual. I plan to add functionality: search bar, filter, likes, modern design and additional responsiveness.
+A simple video player with my favourite songs, built with React useState hooks and npm package react-youtube. Right now you can choose between songs, using Youtube player as usual. I plan to add functionality: search bar, filter, likes, modern design and additional responsiveness.
 
 <p align="left">
   <img src="src/assets/Preview.jpg"  alt="Video player screenshot" width="500" />
